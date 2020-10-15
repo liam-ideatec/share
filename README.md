@@ -1,1 +1,1 @@
-# 자료 공유를 위한 공간입니다.
+# Space for sharing data.
